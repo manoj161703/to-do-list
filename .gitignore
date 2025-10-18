@@ -1,0 +1,10 @@
+# Ignore virtual environments
+myvenv/
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+.streamlit-cache/
